@@ -27,7 +27,7 @@ Spotiflyer is a Telegram bot that lets you download songs by simply inputting a 
 #### Get item
 
 ```http
-  GET /api/items/${id}
+  GET /api/items/${songId}
 ```
 
 | Parameter | Type     | Description                       |
